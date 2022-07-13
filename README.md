@@ -1,7 +1,7 @@
 ### Hi!!! Eu sou Josenilson Farias.
 
 - 🔭 Hoje Estudo Back-End
-- 🌱 estudando Python/C++/Js/Css/sql/react
+- 🌱 estudando Python/C/sql/
 - 📫 Contate-me no email: fariaslwork@gmail.com
 
 <div align="center">
