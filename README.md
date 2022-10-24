@@ -1,6 +1,6 @@
 ### Hi!!! Eu sou Josenilson Farias.
 
-- 🔭 Sou Back-End by cadeMED
+- 🔭 Back-End by cadeMED
 - 🌱 Tecnologias mais usadas Python/C/sql/
 - 📫 Contate-me no email: fariaslwork@gmail.com
 
