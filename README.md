@@ -1,7 +1,7 @@
 ### Hi!!! Eu sou Josenilson Farias.
 
 - 🔭 Back-End
-- 🌱 Tecnologias mais usadas Python/C/sql/
+- 🌱 Tecnologias mais usadas Python/JavaScript
 - 📫 Contate-me no email: fariaslwork@gmail.com
 
 <div align="center">
