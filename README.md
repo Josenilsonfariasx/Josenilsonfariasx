@@ -37,9 +37,3 @@ Sou um Desenvolvedor Full-Stack com formação sólida e experiência prática e
     </td>
   </tr>
 </table>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guipmdev/guipmdev/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/guipmdev/guipmdev/output/github-snake.svg" alt="" width="100%" />
-  </picture>
-</div>
